@@ -30,16 +30,20 @@ Follow these steps to set up and run the project locally:
 ```bash
 git clone https://github.com/Ojaswa-Yadav/youtube-clone-.git
 cd youtube-clone-
+```
 
+```bash
 # Install dependencies
 npm install
+```
 
 # Create a .env file in the root directory and add the following:
 # MONGO_URI=your_mongodb_connection_string
 # JWT_SECRET=your_jwt_secret
 # PORT=5000
 
+```bash
 # Start the application
 npm start
-
+```
 # Open the application in your browser at http://localhost:3000
