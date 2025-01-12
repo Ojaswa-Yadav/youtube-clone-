@@ -37,10 +37,10 @@ cd youtube-clone-
 npm install
 ```
 
-Create a .env file in the root directory and add the following:
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
-PORT=5000
+-Create a .env file in the root directory and add the following:
+-MONGO_URI=your_mongodb_connection_string
+-JWT_SECRET=your_jwt_secret
+-PORT=5000
 
 ```bash
 # Start the application
